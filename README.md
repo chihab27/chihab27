@@ -40,33 +40,20 @@ const chenineihab = {
 ### 🏆 **Key Achievements**
 
 - 🎯 **Built MellonialProd**: Revolutionary AI-powered SaaS platform serving enterprise clients
-- 📈 **180+ GitHub Contributions**: Consistent innovation and development excellence
 - 🌍 **Global Impact**: Solutions deployed across multiple continents
 - 🔥 **Multiple Successful Exits**: Track record in high-growth startup environments
 - 💡 **AI Innovation Patents**: Proprietary algorithms in production systems
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chihab27&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihab27&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+- 🚀 **Enterprise Transformation**: Led digital transformation initiatives for Fortune 500 companies
 
 ### 🤝 **Connect & Collaborate**
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chihab-eddine)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chihab_tech)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mellonial-prod.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ch6ihab@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/chihab-eddine"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/chihab_tech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://mellonial-prod.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="mailto:ch6ihab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-<div align="center">
-  <i>"Innovation distinguishes between a leader and a follower. In AI, we're not just following trends—we're creating the future."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=chihab27&label=Profile%20Views&color=0969DA&style=flat" alt="Profile Views" />
-</div>
+*"Innovation distinguishes between a leader and a follower. In AI, we're not just following trends—we're creating the future."*
