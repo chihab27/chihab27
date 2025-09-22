@@ -40,10 +40,8 @@ const chenineihab = {
 ### 🏆 **Key Achievements**
 
 - 🎯 **Built MellonialProd**: Revolutionary AI-powered SaaS platform serving enterprise clients
-- 🌍 **Global Impact**: Solutions deployed across multiple continents
 - 🔥 **Multiple Successful Exits**: Track record in high-growth startup environments
-- 💡 **AI Innovation Patents**: Proprietary algorithms in production systems
-- 🚀 **Enterprise Transformation**: Led digital transformation initiatives for Fortune 500 companies
+- 💡 **AI Innovation**: Proprietary algorithms in production systems
 
 ### 🤝 **Connect & Collaborate**
 
